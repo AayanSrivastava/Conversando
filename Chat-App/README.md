@@ -9,7 +9,6 @@ This is a realtime chatting application developed using React.js, Node.js & Sock
 ## 🏁 Technology Stack
 
 - [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/en/)
 - [Socket.io](https://socket.io/)
 
 ## Key Features
